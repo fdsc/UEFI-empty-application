@@ -11,6 +11,7 @@ For make an USB live flash drive:
 0. Build the project with FASM https://flatassembler.net
 1. Format the flash in FAT32
 2. Copy files from iso to the root of flash
+
 Do not copy iso folder. In root have EFI folder
 
 
