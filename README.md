@@ -12,8 +12,9 @@ For make an USB live flash drive:
 1. Format the flash in FAT32
 2. Copy files from iso to the root of flash
 
-Do not copy iso folder. In root have EFI folder
-For load from USB enable in BIOS the UEFI load and disable secure boot (trust boot)
+Do not copy iso folder. In root have EFI folder.
+
+For load from USB enable in BIOS the UEFI load and disable secure boot (trust boot).
 
 For make an iso image for VirtualBox machine
 
@@ -37,7 +38,8 @@ build.bat содержит примерные команды для сборки
 2. Скопируйте файлы из папки iso в корень флешки
 
 В корне флешки должна быть папка EFI, не iso.
-Для загрузки с USB включите в биосе загрузку UEFI и отключите secure boot (trust boot)
+
+Для загрузки с USB включите в биосе загрузку UEFI и отключите secure boot (trust boot).
 
 
 Чтобы сделать iso-образ для загрузки с помощью виртуальной машины VirtualBox
