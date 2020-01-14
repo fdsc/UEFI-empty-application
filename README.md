@@ -21,6 +21,8 @@ For make an iso image for VirtualBox machine
 1. Search in Internet mkisofs.exe https://code.google.com/archive/p/mkisofs-md5/downloads
 2. Make an iso image (build.bat makes main.iso)
 
+For boot with VirtualBox, set the memory 48 Mb or more
+
 ------------------------------------------------------------------------------------------------------------------------------
 Russian
 
@@ -42,3 +44,6 @@ build.bat содержит примерные команды для сборки
 0. 0 и 1 аналогично
 1. Найдите в интернете mkisofs.exe https://code.google.com/archive/p/mkisofs-md5/downloads
 2. Сформируйте iso-образ (build.bat создаёт файл main.iso)
+
+
+Для загрузки из VirtualBox установите объём памяти на 48 Мб или более
