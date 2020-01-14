@@ -19,7 +19,7 @@ For make an iso image for VirtualBox machine
 
 0. 0 and 1 similarly as for USB
 1. Search in Internet mkisofs.exe https://code.google.com/archive/p/mkisofs-md5/downloads
-2. Make an iso image
+2. Make an iso image (build.bat makes main.iso)
 
 ------------------------------------------------------------------------------------------------------------------------------
 Russian
@@ -41,4 +41,4 @@ build.bat содержит примерные команды для сборки
 
 0. 0 и 1 аналогично
 1. Найдите в интернете mkisofs.exe https://code.google.com/archive/p/mkisofs-md5/downloads
-2. Сформируйте iso-образ
+2. Сформируйте iso-образ (build.bat создаёт файл main.iso)
