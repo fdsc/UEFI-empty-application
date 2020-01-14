@@ -1,4 +1,4 @@
-# UEFI-boot
+# UEFI empty application
 
 English
 
