@@ -11,7 +11,7 @@ For make an USB live flash drive:
 0. Build the project with FASM https://flatassembler.net
 1. Format the flash in FAT32
 2. Copy files from iso to the root of flash
-
+Do not copy iso folder. In root have EFI folder
 
 
 For make an iso image for VirtualBox machine
@@ -33,8 +33,8 @@ build.bat содержит примерные команды для сборки
 1. Отформатируйте устройство в FAT32
 2. Скопируйте файлы из папки iso в корень флешки
 
+В корне флешки должна быть папка EFI, не iso.
 
-В корне флешки должна быть папка EFI, не iso
 
 Чтобы сделать iso-образ для загрузки с помощью виртуальной машины VirtualBox
 
